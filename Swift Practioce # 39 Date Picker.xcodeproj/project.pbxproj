@@ -24,6 +24,7 @@
 		5D7E88FB26A6899600BA1117 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5D7E88FE26A6899600BA1117 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5D7E890026A6899600BA1117 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D7E890626A699DC00BA1117 /* HanyiSentyBubbleTea.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = HanyiSentyBubbleTea.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		5D7E88F126A6899100BA1117 /* Swift Practioce # 39 Date Picker */ = {
 			isa = PBXGroup;
 			children = (
+				5D7E890626A699DC00BA1117 /* HanyiSentyBubbleTea.ttf */,
 				5D7E88F226A6899100BA1117 /* AppDelegate.swift */,
 				5D7E88F426A6899100BA1117 /* SceneDelegate.swift */,
 				5D7E88F626A6899100BA1117 /* ViewController.swift */,
